@@ -1,0 +1,9 @@
+G:\Exercise\RegexConsoleApp\bin\Debug\netcoreapp1.1\RegexConsoleTester.deps.json
+G:\Exercise\RegexConsoleApp\bin\Debug\netcoreapp1.1\RegexConsoleTester.runtimeconfig.json
+G:\Exercise\RegexConsoleApp\bin\Debug\netcoreapp1.1\RegexConsoleTester.runtimeconfig.dev.json
+G:\Exercise\RegexConsoleApp\bin\Debug\netcoreapp1.1\RegexConsoleTester.dll
+G:\Exercise\RegexConsoleApp\bin\Debug\netcoreapp1.1\RegexConsoleTester.pdb
+G:\Exercise\RegexConsoleApp\obj\Debug\netcoreapp1.1\RegexConsoleTester.csprojResolveAssemblyReference.cache
+G:\Exercise\RegexConsoleApp\obj\Debug\netcoreapp1.1\RegexConsoleTester.AssemblyInfo.cs
+G:\Exercise\RegexConsoleApp\obj\Debug\netcoreapp1.1\RegexConsoleTester.dll
+G:\Exercise\RegexConsoleApp\obj\Debug\netcoreapp1.1\RegexConsoleTester.pdb
